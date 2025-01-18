@@ -1,5 +1,5 @@
 # GPS-Module-Test-Development
-A general GPS module test development firmware to test out any old/new modules via UART using arduino software
+A general GPS module test development firmware to test out any old/new modules via UART using arduino software (bare in mind some modules may not be compatible!)
 
 ## Overview
 
