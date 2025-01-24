@@ -6,7 +6,7 @@
   // ESP32 user hardware uart
   // RX io16
   // TX io17
-  DFRobot_GNSS_UART gnss(&Serial0 ,9600);
+  DFRobot_GNSS_UART gnss(&Serial1, 9600, 16, 17);
 #else
   // Arduino user software uart
   // RX io10
